@@ -43,10 +43,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
           </div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:imde517@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:imde517@gmail.com"> </a>
-          </div>  <br> 
+    <br> 
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
@@ -54,8 +51,14 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongEun02&layout=compact&bg_color=180,201d1d,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
----
+<br>
+
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="62.5%" loading = "lazy"/>
 </div>
+<br>
+
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:imde517@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:imde517@gmail.com"> </a>
+          </div>  

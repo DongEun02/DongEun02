@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <!-- <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>   -->
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 웹 프론트엔드(Web Frontend) 개발자입니다. </div> <br/>
     <details>
-        <summary> 👀 Studying</summary>
+        <summary> 👀  Now Studying</summary>
         <br />
         <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">

@@ -1,71 +1,143 @@
-<!--
-**DongEun02/DongEun02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=120&section=header" alt="header" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>Hi, I'm Dongeun 👋</h1>
 
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=&animation=fadeIn&fontColor=434242&fontSize=50" />
-    </div>
-    <div align= "center"> 
-    <!-- <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>   -->
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 웹 프론트엔드(Web Frontend) 개발자입니다. </div> <br/>
-    <details>
-        <summary> 👀  Now Studying</summary>
-        <br />
-        <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-    </details>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-          <!-- <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"> -->
-          <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
-          <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
-          </div>
-    </div>
-    <br> 
-    <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔧 Tools </h2> <br> 
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <!-- <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> -->
-          <!-- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> -->
-          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <br/>
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        	<img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats-ty7g.vercel.app/api?username=DongEun02&bg_color=180,201d1d,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats-ty7g.vercel.app/api/top-langs/?username=DongEun02&layout=compact&bg_color=180,201d1d,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
-<br>
+
+  <p>
+    <strong>Frontend Developer passionate about clean code<br/>
+    and maintainable web applications.</strong>
+  </p>
+
+
+  <p>
+    <samp>Clean Code · Thoughtful Refactoring · React · TypeScript</samp>
+  </p>
+</div>
+
+
+<br/>
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧹 What I value</h3>
+      <p>I enjoy turning complicated code into simple, readable structures.</p>
+      <ul>
+        <li>Clean and expressive code</li>
+        <li>Thoughtful refactoring</li>
+        <li>Maintainable architecture</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Current focus</h3>
+      <p>I am continuously deepening my frontend knowledge.</p>
+      <ul>
+        <li>React &amp; TypeScript</li>
+        <li>Woowa Course 8th</li>
+        <li>Open-source contribution</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+<h2>🚀 Featured Work</h2>
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DongEun02/Giyeoro">Giyeoro</a></h3>
+      <p>An issue recommendation service for aspiring open-source contributors.</p>
+      <p><code>TypeScript</code> <code>React</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DongEun02/woowacourse-archive">Woowa Course Archive</a></h3>
+      <p>Projects, notes, and learning records from Woowa Course.</p>
+      <p><code>Learning</code> <code>Frontend</code></p>
+    </td>
+  </tr>
+</table>
+
+
+<details open>
+  <summary><strong>🌍 Open-source Contributions</strong></summary>
+  <br/>
+  <p>
+    <a href="https://github.com/DongEun02/ko.react.dev"><strong>React Docs · Korean</strong></a>
+    — Contributing to the Korean React documentation
+    <br/><br/>
+    <a href="https://github.com/DongEun02/es-toolkit"><strong>es-toolkit</strong></a>
+    — Contributing to a modern JavaScript utility library
+  </p>
+</details>
+
+
+<br/>
+
+
+<h2>🛠 Tech Stack</h2>
+
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="62.5%" loading = "lazy"/>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="Styled Components" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  </p>
 </div>
-<br>
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:imde0205@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:imde0205@gmail.com"> </a>
-          </div>  
+
+<h2>📊 GitHub Activity</h2>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ty7g.vercel.app/api?username=DongEun02&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=21600&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ty7g.vercel.app/api?username=DongEun02&show_icons=true&hide_border=true&theme=default&cache_seconds=21600&v=2" />
+    <img height="165" src="https://github-readme-stats-ty7g.vercel.app/api?username=DongEun02&show_icons=true&hide_border=true&cache_seconds=21600&v=2" alt="DongEun's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ty7g.vercel.app/api/top-langs/?username=DongEun02&layout=compact&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ty7g.vercel.app/api/top-langs/?username=DongEun02&layout=compact&hide_border=true&theme=default" />
+    <img height="165" src="https://github-readme-stats-ty7g.vercel.app/api/top-langs/?username=DongEun02&layout=compact&hide_border=true" alt="Most used languages" />
+  </picture>
+</div>
+
+
+<br/>
+
+
+<details>
+  <summary><strong>🌈 More contribution activity</strong></summary>
+  <br/>
+  <div align="center">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="85%" alt="3D contribution graph" />
+  </div>
+</details>
+
+
+<br/>
+
+
+<hr/>
+
+
+<div align="center">
+  <h3>Let's connect</h3>
+  <p><samp>Let's build something clean and useful.</samp></p>
+  <a href="mailto:imde0205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-imde0205%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+

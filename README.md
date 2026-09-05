@@ -63,19 +63,52 @@
 </table>
 
 
-<details close>
-  <summary><h4>🌍 <a href="https://giyeoro.vercel.app/portfolio/DongEun02">Open-source Contributions</a></h4></summary>
-  <br/>
-  <p>
-    <a href="https://github.com/reactjs/ko.react.dev"><strong>React Docs · Korean</strong></a>
-    — Contributing to the Korean React documentation
-    <br/><br/>
-    <a href="https://github.com/toss/es-toolkit"><strong>es-toolkit</strong></a>
-    — Contributing to a modern JavaScript utility library
-    <br/><br/>
-    <a href="https://github.com/toss/react-simplikit"><strong>react-simplikit</strong></a>
-    — Contributing to a collection of lightweight, zero-dependency React utilities
-  </p>
+<details open>
+  <summary>
+    <h4>🌍 Open-source Contributions</h4>
+  </summary>
+  
+  <table>
+  <tr>
+    <td>
+      <a href="https://github.com/reactjs/ko.react.dev">
+        <strong>React Docs · Korean</strong>
+      </a>
+    </td>
+    <td>
+      Contributing to the Korean React documentation
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/toss/es-toolkit">
+        <strong>es-toolkit</strong>
+      </a>
+    </td>
+    <td>
+      Contributing to a modern JavaScript utility library
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/toss/react-simplikit">
+        <strong>react-simplikit</strong>
+      </a>
+    </td>
+    <td>
+      Contributing to lightweight, zero-dependency React utilities
+    </td>
+  </tr>
+</table>
+
+<p>
+<a href="https://giyeoro.vercel.app/portfolio/DongEun02">
+View all contributions →
+</a>
+</p>
+
 </details>
 
 

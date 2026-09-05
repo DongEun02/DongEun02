@@ -64,14 +64,17 @@
 
 
 <details open>
-  <summary><strong>🌍 Open-source Contributions</strong></summary>
+  <summary><strong> 🌍 <a href="https://giyeoro.vercel.app/portfolio/DongEun02">Open-source Contributions</a></strong></summary>
   <br/>
   <p>
-    <a href="https://github.com/DongEun02/ko.react.dev"><strong>React Docs · Korean</strong></a>
+    <a href="https://github.com/reactjs/ko.react.dev"><strong>React Docs · Korean</strong></a>
     — Contributing to the Korean React documentation
     <br/><br/>
-    <a href="https://github.com/DongEun02/es-toolkit"><strong>es-toolkit</strong></a>
+    <a href="https://github.com/toss/es-toolkit"><strong>es-toolkit</strong></a>
     — Contributing to a modern JavaScript utility library
+    <br/><br/>
+    <a href="https://github.com/toss/react-simplikit"><strong>react-simplikit</strong></a>
+    — Contributing to a collection of lightweight, zero-dependency React utilities
   </p>
 </details>
 

@@ -63,8 +63,8 @@
 </table>
 
 
-<details open>
-  <summary><strong> 🌍 <a href="https://giyeoro.vercel.app/portfolio/DongEun02">Open-source Contributions</a></strong></summary>
+<details close>
+  <summary><h4>🌍 <a href="https://giyeoro.vercel.app/portfolio/DongEun02">Open-source Contributions</a></h4></summary>
   <br/>
   <p>
     <a href="https://github.com/reactjs/ko.react.dev"><strong>React Docs · Korean</strong></a>

@@ -51,7 +51,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DongEun02/Giyeoro">Giyeoro</a></h3>
-      <p>An issue recommendation service for aspiring open-source contributors.</p>
+      <p>A platform for sharing your open-source contribution PRs.</p>
       <p><code>TypeScript</code> <code>React</code></p>
     </td>
     <td width="50%" valign="top">

@@ -104,7 +104,7 @@
 </table>
 
 <p>
-<a href="https://giyeoro.vercel.app/share/_j7IfoqJWoyFjAcph855D-3e">
+<a href="https://giyeoro.vercel.app/share/XkDtGwPpiCnK1b_X7tWoCwMO">
 View all contributions →
 </a>
 </p>

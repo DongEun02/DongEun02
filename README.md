@@ -55,9 +55,9 @@
       <p><code>TypeScript</code> <code>React</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DongEun02/woowacourse-archive">Woowa Course Archive</a></h3>
-      <p>Projects, notes, and learning records from Woowa Course.</p>
-      <p><code>Learning</code> <code>Frontend</code></p>
+      <h3><a href="https://github.com/woowacourse-teams/2026-ChongChong">ChongChong</a></h3>
+      <p>A study management service</p>
+      <p><code>Project</code> <code>Frontend</code></p>
     </td>
   </tr>
 </table>
